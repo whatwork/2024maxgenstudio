@@ -5,7 +5,7 @@
             "id": "asset-library",
             "title": "My Assets",
             "environments": ["preview","live", "edit"],
-            "url": "https://experience.adobe.com/solutions/CQ-assets-selectors/static-assets/resources/franklin/asset-selector.html?rail=false",
+            "url": "https://experience.adobe.com/solutions/CQ-assets-selectors/static-assets/resources/franklin/asset-selector.html?rail=true",
             "isPalette": true,
             "includePaths": [ "**.docx**" ],
             "passConfig": true,
